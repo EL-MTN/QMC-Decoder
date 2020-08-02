@@ -1,0 +1,15 @@
+{
+	"name": "qmc-decoder-cli",
+	"version": "1.0.0",
+	"description": "Decoder for QMC files",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"QMC",
+		"Decode"
+	],
+	"author": "Eric Li",
+	"license": "MIT"
+}
